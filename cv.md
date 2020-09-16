@@ -36,7 +36,6 @@ In the future, I want to develop as a full stack developer.
         }
     };
  ```
-    
 6. Course: c#. Educational Center of HTP It- Academy, Educational Center of Kursy.By
 Description: In-Depth C#, Transact-SQL, ADO.NET(basic), Entity Framework,
 basics of OOP, inheritance, interfaces, GC, delegates, events, exсeptions, multithreading,
