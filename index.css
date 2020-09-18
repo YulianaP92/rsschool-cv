@@ -1,6 +1,15 @@
-.block{
+#block{
     margin: auto;
-    width: 1024px;
+    width: 800px;
+}
+
+#photo{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin: 7px 0 7px 7px;
+    float: right;
 }
 
 .bold{
@@ -15,3 +24,4 @@
 .margin{
     margin-bottom: 5px;
 }
+
