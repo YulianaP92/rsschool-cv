@@ -1,0 +1,17 @@
+.block{
+    margin: auto;
+    width: 1024px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.list{
+    font-style: italic;
+    line-height: 25px;
+}
+
+.margin{
+    margin-bottom: 5px;
+}
